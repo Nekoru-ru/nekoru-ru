@@ -7,78 +7,24 @@
 </head>
 <body>
   <header>
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%ABGIF.gif?raw=true" alt="プロフィール画像" class="https://github.com/Nekoru-ru/nekoru-ru/blob/main/1000017439.png?raw=true">
-<h1>ネコるんる</h1>
-<p>クリエイター / 原神配信者</p>
+    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%ABGIF.gif?raw=true" alt="プロフィール画像" class="profile-icon">
+    <h1>ネコるんる</h1>
+    <p>クリエイター / 原神配信者</p>
   </header>
 
   <section class="links">
     <a href="https://x.com/nekori_ru" target="_blank">
-      <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/969d377a05dc6dec4435c405cec77aefb2f64957/Twitter%E3%83%AD%E3%82%B4.png" alt="Twitter">Twitter
+      <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/main/Twitter%E3%83%AD%E3%82%B4.png" alt="Twitter">Twitter
     </a>
     <a href="https://youtube.com/@user-nekoru_ru?si=2cwJnMNkzIWJswds" target="_blank">
-      <img src="<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>ネコるんる</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/1000017439.png?raw=true" alt="プロフィール画像" class="profile-icon">
-<h1>ネコるんる</h1>
-<p>クリエイター / 原神配信者</p>
-  </header>
-
-  <section class="links">
-  <a href="https://x.com/nekori_ru" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/969d377a05dc6dec4435c405cec77aefb2f64957/Twitter%E3%83%AD%E3%82%B4.png" alt="Twitter">Twitter
-  </a>
-  <a href="https://youtube.com/@user-nekoru_ru?si=2cwJnMNkzIWJswds" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/969d377a05dc6dec4435c405cec77aefb2f64957/youtube_logo_icon.png" alt="YouTube">YouTube
-  </a>
-  <a href="mailto:sansanjiao347@gmail.com">
-    <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/969d377a05dc6dec4435c405cec77aefb2f64957/icon_mail_21.png" alt="Email">Mail
-  </a>
-</section>
-
-  <h2>実績一覧/ネコるんるの対応可能箇所</h2>
-
-  <div class="achievement">
-    <h3>マリオ風アクションゲーム</h3>
-    <p>敵の動きやアイテム取得、攻撃機能を実装。</p>
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E4%B8%80%E9%83%A8%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E4%BD%9C%E5%93%81.png?raw=true" alt="マリオ風ゲーム">
-  </div>
-
-  <div class="achievement">
-    <h3>Blender</h3>
-    <p>Blenderを使い3Dモデルを作成できる</p>
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E4%BA%BA.png?raw=true" alt="Blender作品">
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%83%88%E3%83%AD%E3%83%83%E3%82%B3.png?raw=true" alt="Blender作品">
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E8%B5%A4%E9%BB%92headphone%E5%95%86%E5%93%81%E7%94%BB%E5%83%8F.png?raw=true" alt="Blender作品">
-  </div>
-
-  <div class="achievement">
-    <h3>Web制作</h3>
-    <p>HTMLとCSSを使ってシンプルなWebページを作成。</p>
-    <img src="website-thumbnail.jpg" alt="Webサイトのサムネイル画像">
-    <p><a href="#" class="btn">サイトを見る</a></p>
-  </div>
-
-  <h2>関わっている会社</h2>
-  <div class="company">
-    <p>・株式会社ENKEY オリジナルの音楽を作成してもらい、それを提供してもらっている</p>
-  </div>
-</body>
-</html>
-
+      <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/main/youtube_logo_icon.png" alt="YouTube">YouTube
+    </a>
     <a href="mailto:sansanjiao347@gmail.com">
-      <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/969d377a05dc6dec4435c405cec77aefb2f64957/youtube_logo_icon.png" alt="Email">Mail
+      <img src="https://raw.githubusercontent.com/Nekoru-ru/nekoru-ru/main/icon_mail_21.png" alt="Email">Mail
     </a>
   </section>
 
-  <h2>実績一覧/ネコるんるの対応可能箇所</h2>
+  <h2>実績一覧 / ネコるんるの対応可能箇所</h2>
 
   <div class="achievement">
     <h3>マリオ風アクションゲーム</h3>
@@ -89,9 +35,9 @@
   <div class="achievement">
     <h3>Blender</h3>
     <p>Blenderを使い3Dモデルを作成できる</p>
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E4%BA%BA.png?raw=true" alt="Blender作品">
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%83%88%E3%83%AD%E3%83%83%E3%82%B3.png?raw=true" alt="Blender作品">
-    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E8%B5%A4%E9%BB%92headphone%E5%95%86%E5%93%81%E7%94%BB%E5%83%8F.png?raw=true" alt="Blender作品">
+    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E4%BA%BA.png?raw=true" alt="Blender作品1">
+    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E3%83%88%E3%83%AD%E3%83%83%E3%82%B3.png?raw=true" alt="Blender作品2">
+    <img src="https://github.com/Nekoru-ru/nekoru-ru/blob/main/%E8%B5%A4%E9%BB%92headphone%E5%95%86%E5%93%81%E7%94%BB%E5%83%8F.png?raw=true" alt="Blender作品3">
   </div>
 
   <div class="achievement">
