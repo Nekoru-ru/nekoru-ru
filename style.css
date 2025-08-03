@@ -1,18 +1,23 @@
 body {
-  background-color: #b3ecff; /* 水色背景 */
+  background: linear-gradient(to bottom, #ffffff 70%, #b3ecff 100%);
+  background-size: 100% 200%;
+  animation: floatBackground 10s ease-in-out infinite alternate;
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  text-align: center;   /* 全体のテキストを中央ぞろえに */
+  text-align: center;
   color: #333;
 }
 
-header {
-  background-color: #333;
-  color: white;
-  padding: 2rem 1rem;
-  /* text-align: center; はbodyで指定済みなので省略可 */
+@keyframes floatBackground {
+  0% {
+    background-position: 0 0%;
+  }
+  100% {
+    background-position: 0 100%;
+  }
 }
+
 
 .profile-icon {
   width: 150px;
