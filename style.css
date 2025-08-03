@@ -86,3 +86,19 @@ h1, h2, h3, p {
   width: 24px;
   height: 24px;
 }
+
+.contact-section {
+  margin: 3rem 0;
+  text-align: center;
+}
+
+.contact-button {
+  width: 200px;  /* サイズは好きに変えてOK */
+  height: auto;
+  transition: transform 0.3s;
+}
+
+.contact-button:hover {
+  transform: scale(1.05);
+}
+
